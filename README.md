@@ -2,6 +2,8 @@
 
 This Streamlit application predicts which medical devices are likely to need maintenance within the next 30 days using machine learning. The application includes data simulation, preprocessing, model training, and interactive visualizations.
 
+![Model Performance Metrics](M1.png)
+
 ## Features
 
 - Simulated medical device data generation
